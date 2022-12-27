@@ -1,0 +1,1 @@
+ build a function that receive a string and returns set of the chars in the string. 
