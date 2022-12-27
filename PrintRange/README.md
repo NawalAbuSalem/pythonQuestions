@@ -1,0 +1,1 @@
+ build a function that receive a positive number n and return the range (0, 0.5, 1, 1.5, ... n) 
