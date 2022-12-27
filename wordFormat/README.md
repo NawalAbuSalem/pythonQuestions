@@ -1,0 +1,1 @@
+build a function that receive a string and returns the first word with the format (number.number:number) 
