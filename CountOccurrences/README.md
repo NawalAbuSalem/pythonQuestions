@@ -1,0 +1,1 @@
+build a function that receive a string and returns dictionary of the char to number of occurrences in the string.
