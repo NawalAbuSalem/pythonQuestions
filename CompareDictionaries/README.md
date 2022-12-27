@@ -1,0 +1,1 @@
+ build a function that receive a two dictionaries A and B and compare if both dictionaries have the same content. 
